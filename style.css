@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/sath25.jpg);
+	background-image: url(sath25.jpg);
 	background-size: cover;
 	background-position: center;
 	padding: 10px 5%;
